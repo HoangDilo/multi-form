@@ -1,0 +1,37 @@
+.form-body {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.form-container {
+    display: flex;
+    gap: 20px;  
+    padding: 24px 32px;
+    border: 1px solid #DCDCDC;
+    border-radius: 4px;
+    flex-direction: column;
+}
+
+.buttons {
+    display: flex;
+    gap: 26px;
+}
+
+.btn-go-back {
+    border: 1px solid #DCDCDC;
+    color: #666;
+    font-weight: 500;
+    background: white;
+}
+
+.add-form {
+    background: white;
+    border: 1px solid #DCDCDC;
+    color: #48647F;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 4px 8px;
+}

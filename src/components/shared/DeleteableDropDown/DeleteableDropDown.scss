@@ -1,0 +1,20 @@
+.drop-down-container {
+    background: #F8F8F8;
+    border-radius: 4px;
+    height: 60px;
+    width: 100%;
+    padding: 10px 16px;
+}
+
+.drop-down-wrapper {
+    display: flex;
+    gap: 16px;
+    height: 100%;
+    align-items: center;
+}
+
+.ic-trashcan-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

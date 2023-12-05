@@ -1,0 +1,40 @@
+.header-title {
+    margin: 0;
+    font-size: 24px;
+}
+
+.header-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.header-step {
+    display: flex;
+
+}
+
+.col {
+    width: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.step-icon-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.line  {
+    width: 100%;
+    height: 1px;
+    background: #DBDBDB;
+}
+
+.space {
+    width: 100%;
+}
